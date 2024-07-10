@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: AA
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Hi. My name is Adam. You've found my website that I plan to update with personal projects, so you know my interests
@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Adam A."
   avatar : "/assets/images/BEYA 3701836(1).JPG"
   bio    : "Developer with an interest in IT and software development, I make games and sounds sometimes too!"
   links:
